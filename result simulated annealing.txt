@@ -16,14 +16,10 @@ List Dataset:
 14. tampilkan semua
 
 Pilih dataset  : Jumlah iterasi :  
+ 
 
 ================================================
 
-Dataset yang dipilih : YOR83
-Jumlah Iterasi : 10000
-Ada konflik? : Tidak
-Minimal Timeslots: 23
- 
 
 ================================================
 
@@ -32,13 +28,14 @@ Jumlah Iterasi : 10000
 Ada konflik? : Tidak
 Minimal Timeslots: 20
  
-
-================================================
-
 Dataset yang dipilih : EAR83
 Jumlah Iterasi : 10000
 Ada konflik? : Tidak
 Minimal Timeslots: 26
+
+================================================
+
+ 
  
 
 ================================================
@@ -55,11 +52,26 @@ Dataset yang dipilih : STA83
 Jumlah Iterasi : 10000
 Ada konflik? : Tidak
 Minimal Timeslots: 13
- 
+Dataset yang dipilih : UTE92
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 11
 
 ================================================
 
  
+
+================================================
+
+Dataset yang dipilih : YOR83
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 23
+ 
+Dataset yang dipilih : LSE91
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 19
 
 ================================================
 
@@ -68,49 +80,37 @@ Jumlah Iterasi : 10000
 Ada konflik? : Tidak
 Minimal Timeslots: 20
  
-
-================================================
-
-Dataset yang dipilih : LSE91
-Jumlah Iterasi : 10000
-Ada konflik? : Tidak
-Minimal Timeslots: 19
  
 
 ================================================
 
 Dataset yang dipilih : RYE92
 Jumlah Iterasi : 10000
+
+================================================
+
 Ada konflik? : Tidak
 Minimal Timeslots: 25
-Dataset yang dipilih : UTE92
-Jumlah Iterasi : 10000
-Ada konflik? : Tidak
-Minimal Timeslots: 11
- 
-
-================================================
-
-Dataset yang dipilih : UTA92
-Jumlah Iterasi : 10000
-Ada konflik? : Tidak
-Minimal Timeslots: 36
- 
-
-================================================
-
 Dataset yang dipilih : CAR91
 Jumlah Iterasi : 10000
 Ada konflik? : Tidak
 Minimal Timeslots: 35
  
+ 
+
+================================================
+
 
 ================================================
 
 Dataset yang dipilih : CAR92
 Jumlah Iterasi : 10000
+Dataset yang dipilih : UTA92
+Jumlah Iterasi : 10000
 Ada konflik? : Tidak
 Minimal Timeslots: 32
+Ada konflik? : Tidak
+Minimal Timeslots: 36
  
 
 ================================================
@@ -119,68 +119,68 @@ Dataset yang dipilih : PUR93
 Jumlah Iterasi : 10000
 Ada konflik? : Tidak
 Minimal Timeslots: 38
-Optimized Timeslots with Simulated Annealing Algorithm : 23
-YOR83Initial penalty = 41.19978746014878
-YOR83Final penalty = 29.047821466524972
-YOR83Delta = 29.495215249297118%
-YOR83Simulated Annealing execution time in miliseconds : 17790
-Optimized Timeslots with Simulated Annealing Algorithm : 13
-STA83Initial penalty = 117.2962356792144
-STA83Final penalty = 88.06219312602292
-STA83Delta = 24.923257241725732%
-STA83Simulated Annealing execution time in miliseconds : 21362
-Optimized Timeslots with Simulated Annealing Algorithm : 20
-HEC92Initial penalty = 12.476797732908254
-HEC92Final penalty = 6.329791002479632
-HEC92Delta = 49.267503265004834%
-HEC92Simulated Annealing execution time in miliseconds : 21481
-Optimized Timeslots with Simulated Annealing Algorithm : 19
-LSE91Initial penalty = 17.97872340425532
-LSE91Final penalty = 7.983859134262656
-LSE91Delta = 55.59273617629056%
-LSE91Simulated Annealing execution time in miliseconds : 22758
-Optimized Timeslots with Simulated Annealing Algorithm : 26
-EAR83Initial penalty = 47.56088888888889
-EAR83Final penalty = 24.432
-EAR83Delta = 48.63006018016671%
-EAR83Simulated Annealing execution time in miliseconds : 23212
-Optimized Timeslots with Simulated Annealing Algorithm : 10
-UTE92Initial penalty = 32.67963636363636
-UTE92Final penalty = 14.701454545454546
-UTE92Delta = 55.0134084055681%
-UTE92Simulated Annealing execution time in miliseconds : 24515
-Optimized Timeslots with Simulated Annealing Algorithm : 22
-TRE92Initial penalty = 10.04653828519028
-TRE92Final penalty = 7.80903255387437
-TRE92Delta = 22.271409990187806%
-TRE92Simulated Annealing execution time in miliseconds : 27260
-Optimized Timeslots with Simulated Annealing Algorithm : 20
-KFU93Initial penalty = 34.198915685174796
-KFU93Final penalty = 11.283230510375772
-KFU93Delta = 67.00705187776744%
-KFU93Simulated Annealing execution time in miliseconds : 42976
-Optimized Timeslots with Simulated Annealing Algorithm : 25
-RYE92Initial penalty = 19.77427501523992
-RYE92Final penalty = 6.440128886179569
-RYE92Delta = 67.4317825497208%
-RYE92Simulated Annealing execution time in miliseconds : 68847
-Optimized Timeslots with Simulated Annealing Algorithm : 32
-CAR92Initial penalty = 7.052934469840925
-CAR92Final penalty = 4.4336826103480105
-CAR92Delta = 37.13705083597622%
-CAR92Simulated Annealing execution time in miliseconds : 69629
-Optimized Timeslots with Simulated Annealing Algorithm : 36
-UTA92Initial penalty = 4.84519890905671
-UTA92Final penalty = 3.2189880560519137
-UTA92Delta = 33.563345561831554%
-UTA92Simulated Annealing execution time in miliseconds : 71473
-Optimized Timeslots with Simulated Annealing Algorithm : 35
-CAR91Initial penalty = 7.516778920004726
-CAR91Final penalty = 5.0485052581826775
-CAR91Delta = 32.83685323314653%
-CAR91Simulated Annealing execution time in miliseconds : 72224
-Optimized Timeslots with Simulated Annealing Algorithm : 38
-PUR93Initial penalty = 12.486281299946723
-PUR93Final penalty = 7.756992541289291
-PUR93Delta = 37.8758786947849%
-PUR93Simulated Annealing execution time in miliseconds : 147024
+YOR83 Optimized Timeslots with Simulated Annealing Algorithm : 23
+YOR83 Initial penalty = 41.19978746014878
+YOR83 Final penalty = 28.391073326248673
+YOR83 Delta = 31.089272356779894%
+YOR83 Simulated Annealing execution time in miliseconds : 21660
+STA83 Optimized Timeslots with Simulated Annealing Algorithm : 13
+STA83 Initial penalty = 117.2962356792144
+STA83 Final penalty = 88.49754500818331
+STA83 Delta = 24.552101356253836%
+STA83 Simulated Annealing execution time in miliseconds : 23830
+HEC92 Optimized Timeslots with Simulated Annealing Algorithm : 20
+HEC92 Initial penalty = 12.476797732908254
+HEC92 Final penalty = 6.094226000708466
+HEC92 Delta = 51.15552779512805%
+HEC92 Simulated Annealing execution time in miliseconds : 24412
+EAR83 Optimized Timeslots with Simulated Annealing Algorithm : 26
+EAR83 Initial penalty = 47.56088888888889
+EAR83 Final penalty = 25.352
+EAR83 Delta = 46.695697678764994%
+EAR83 Simulated Annealing execution time in miliseconds : 25632
+LSE91 Optimized Timeslots with Simulated Annealing Algorithm : 19
+LSE91 Initial penalty = 17.97872340425532
+LSE91 Final penalty = 8.152604548789435
+LSE91 Delta = 54.6541522138339%
+LSE91 Simulated Annealing execution time in miliseconds : 26909
+UTE92 Optimized Timeslots with Simulated Annealing Algorithm : 11
+UTE92 Initial penalty = 32.67963636363636
+UTE92 Final penalty = 14.79890909090909
+UTE92 Delta = 54.71519656388744%
+UTE92 Simulated Annealing execution time in miliseconds : 28757
+TRE92 Optimized Timeslots with Simulated Annealing Algorithm : 22
+TRE92 Initial penalty = 10.04653828519028
+TRE92 Final penalty = 7.085281980742779
+TRE92 Delta = 29.47538963557949%
+TRE92 Simulated Annealing execution time in miliseconds : 30503
+KFU93 Optimized Timeslots with Simulated Annealing Algorithm : 20
+KFU93 Initial penalty = 34.198915685174796
+KFU93 Final penalty = 11.177042437838848
+KFU93 Delta = 67.31755316241184%
+KFU93 Simulated Annealing execution time in miliseconds : 48354
+RYE92 Optimized Timeslots with Simulated Annealing Algorithm : 25
+RYE92 Initial penalty = 19.77427501523992
+RYE92 Final penalty = 6.693459897239397
+RYE92 Delta = 66.1506685222048%
+RYE92 Simulated Annealing execution time in miliseconds : 73561
+CAR92 Optimized Timeslots with Simulated Annealing Algorithm : 32
+CAR92 Initial penalty = 7.052934469840925
+CAR92 Final penalty = 4.543677724089256
+CAR92 Delta = 35.577485605197516%
+CAR92 Simulated Annealing execution time in miliseconds : 75199
+UTA92 Optimized Timeslots with Simulated Annealing Algorithm : 36
+UTA92 Initial penalty = 4.84519890905671
+UTA92 Final penalty = 3.2632370920718516
+UTA92 Delta = 32.65009025796308%
+UTA92 Simulated Annealing execution time in miliseconds : 76452
+CAR91 Optimized Timeslots with Simulated Annealing Algorithm : 35
+CAR91 Initial penalty = 7.516778920004726
+CAR91 Final penalty = 5.108294930875576
+CAR91 Delta = 32.04143709374435%
+CAR91 Simulated Annealing execution time in miliseconds : 79842
+PUR93 Optimized Timeslots with Simulated Annealing Algorithm : 38
+PUR93 Initial penalty = 12.486281299946723
+PUR93 Final penalty = 7.509389984017049
+PUR93 Delta = 39.858875484015485%
+PUR93 Simulated Annealing execution time in miliseconds : 148370

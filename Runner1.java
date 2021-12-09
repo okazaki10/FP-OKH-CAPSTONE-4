@@ -61,17 +61,17 @@ public class Runner1 extends Thread {
                 course.getStudentData());
         SA.tampil = tampil;
         long startTimeSA = System.nanoTime();
-        System.out.println(namadataset+"Optimized Timeslots with Simulated Annealing Algorithm : " + SA.optimizeTimeslot());
+        System.out.println(namadataset+" Optimized Timeslots with Simulated Annealing Algorithm : " + SA.optimizeTimeslot());
         long endTimeSA = System.nanoTime();
         double penaltySA = SA.finalPenalty;
         long timeElapsedSA = endTimeSA - startTimeSA;
 
         double delta = ((initialPenalty - penaltySA) / initialPenalty) * 100;
 
-        System.out.println(namadataset+"Initial penalty = " + initialPenalty);
-        System.out.println(namadataset+"Final penalty = " + penaltySA);
-        System.out.println(namadataset+"Delta = " + delta + "%");
-        System.out.println(namadataset+"Simulated Annealing execution time in miliseconds : " +
+        System.out.println(namadataset+" Initial penalty = " + initialPenalty);
+        System.out.println(namadataset+" Final penalty = " + penaltySA);
+        System.out.println(namadataset+" Delta = " + delta + "%");
+        System.out.println(namadataset+" Simulated Annealing execution time in miliseconds : " +
                 timeElapsedSA / 1000000);
     }
 }
